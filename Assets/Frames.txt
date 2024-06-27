@@ -1,0 +1,6 @@
+000-140 - Sneak
+141-166 - Walk
+167-182 - Run(Slow)
+183-199 - Run(Fast)
+200-320 - Barking Growl
+320-470 - Feed
